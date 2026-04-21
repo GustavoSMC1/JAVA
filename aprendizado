@@ -1,0 +1,12 @@
+/// calcular a diferenca de idade 
+
+
+
+public  class CalcularDiferencaIdade {
+    public static void main (String[] args){
+        int primeiraIdade = 52;
+        int segundaIdade = 22;
+        int diferencaIdade = primeiraIdade - segundaIdade;
+        System.out.println("a diferenca de idade e: " + diferencaIdade);
+    }
+}
